@@ -82,19 +82,6 @@ gapped_pc.coverage, gapped_lnc.coverage
 ungapped_pc.coverage, ungapped_lnc.coverage
 
 Cleaned count tables:
-(base) prasoon@prasoon-thinkstation:~/software/github/NAR-2019$ git remote add origin git@github.com:thakurpk/NAR-2019.git
-(base) prasoon@prasoon-thinkstation:~/software/github/NAR-2019$ git push -u origin main
-Enumerating objects: 13, done.
-Counting objects: 100% (13/13), done.
-Delta compression using up to 20 threads
-Compressing objects: 100% (12/12), done.
-Writing objects: 100% (13/13), 1.60 MiB | 14.54 MiB/s, done.
-Total 13 (delta 1), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas: 100% (1/1), done.
-To github.com:thakurpk/NAR-2019.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-(base) prasoon@prasoon-thinkstation:~/software/github/NAR-2019$ 
 
 included_pc.csv, included_lnc.csv
 
