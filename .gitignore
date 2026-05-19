@@ -1,0 +1,22 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session data files
+.RData
+.RData-saved
+.RcommandHistory
+
+# Manifest files for packages
+Drawing.pdf
+*.log
+*.gz
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
