@@ -82,6 +82,19 @@ gapped_pc.coverage, gapped_lnc.coverage
 ungapped_pc.coverage, ungapped_lnc.coverage
 
 Cleaned count tables:
+(base) prasoon@prasoon-thinkstation:~/software/github/NAR-2019$ git remote add origin git@github.com:thakurpk/NAR-2019.git
+(base) prasoon@prasoon-thinkstation:~/software/github/NAR-2019$ git push -u origin main
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 20 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (13/13), 1.60 MiB | 14.54 MiB/s, done.
+Total 13 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To github.com:thakurpk/NAR-2019.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+(base) prasoon@prasoon-thinkstation:~/software/github/NAR-2019$ 
 
 included_pc.csv, included_lnc.csv
 
@@ -115,5 +128,9 @@ splicing_index_results.csv – Per-gene SI values
 splicing_index_comparison.pdf – Boxplot
 splicing_index_density.pdf – Density plot
 statistical_results.txt – Test statistics and summaries
+
+Reference : 
+
+Krchnáková Z, Thakur PK, Krausová M, Bieberstein N, Haberman N, Müller-McNicoll M, Stanek D. Splicing of long non-coding RNAs primarily depends on polypyrimidine tract and 5' splice-site sequences due to weak interactions with SR proteins. Nucleic Acids Res. 2019 Jan 25;47(2):911-928. doi: 10.1093/nar/gky1147. PMID: 30445574; PMCID: PMC6344860.
 
 
